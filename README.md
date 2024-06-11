@@ -9,7 +9,9 @@ npm install
 ```bash
 npm run dev
 ```
-## Unittest
+## Unit test
 ```bash
 npm run test
 ```
+## Try to test
+http://localhost:3000/
